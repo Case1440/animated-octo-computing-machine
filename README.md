@@ -4,7 +4,7 @@
 
 Deployed Link:
 
-Public Github Repo:
+Public Github Repo: https://github.com/Case1440/animated-octo-computing-machine
 
 ## User Story
 
